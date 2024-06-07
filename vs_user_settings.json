@@ -1,0 +1,22 @@
+{
+    "symbols.hidesExplorerArrows": false,
+    "workbench.colorTheme": "Min Dark",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "workbench.iconTheme": "symbols",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+      "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.rulers": [80, 120],
+    "workbench.activityBar.location": "hidden",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always"
+    },
+  }

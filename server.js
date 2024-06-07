@@ -1,5 +1,10 @@
-const server = require("express")();
+const server = require('express')();
 
-server.get('/', function(req, res){})
+// eslint-disable-next-line no-unused-vars
+server.get('/', function(req, res){});
 
 server.listen(3000);
+
+
+const always = 'sempre';
+console.log(always);
